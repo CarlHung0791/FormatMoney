@@ -1,0 +1,3 @@
+include ':FormatMoney'
+include ':app'
+rootProject.name = "FormatMoney"
