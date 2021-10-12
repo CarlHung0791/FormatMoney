@@ -1,4 +1,3 @@
-include ':myUtils'
-include ':FormatMoney'
+include ':MyUtils'
 include ':app'
 rootProject.name = "FormatMoney"
