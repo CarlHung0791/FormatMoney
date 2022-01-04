@@ -5,10 +5,18 @@ import androidx.appcompat.app.AppCompatActivity
 import com.carl.myutils.MyRule
 
 class MainActivity : AppCompatActivity() {
+
+    var aaa :String = "aaa"
+    var bbb :String = "bbb"
+    var dataPost = DataPost()
+    var dataPost2 = DataPost()
+
+    var listAAA:MutableList<Int>? = ArrayList()
+    var listBBB:MutableList<Int>? = ArrayList()
+
     override fun onCreate(savedInstanceState: Bundle?) {
         super.onCreate(savedInstanceState)
         setContentView(R.layout.activity_main)
-
 
     }
 }
