@@ -1,6 +1,6 @@
 package com.carl.myutils
 
-class MyRule {
+public class MyRule {
     fun rule():String{
         return "aaa"
     }
