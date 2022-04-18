@@ -2,7 +2,6 @@ package com.carl.formatMoney
 
 import android.os.Bundle
 import androidx.appcompat.app.AppCompatActivity
-import com.carl.myutils.MyRule
 
 class MainActivity : AppCompatActivity() {
 
