@@ -26,4 +26,11 @@ class MainActivity : AppCompatActivity() {
     fun four() {
         
     }
+    fun two(){
+
+    }
+
+    fun three(){
+        
+    }
 }
