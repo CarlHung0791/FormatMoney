@@ -22,7 +22,8 @@ class MainActivity : AppCompatActivity() {
     fun one(){
 
     }
-    fun aaa(){
-        
+    
+    fun aaa() {
+
     }
 }
