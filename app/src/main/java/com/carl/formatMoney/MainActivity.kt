@@ -30,4 +30,10 @@ class MainActivity : AppCompatActivity() {
     fun four(){
         
     }
+    fun marge2(){
+
+    }
+    fun marge3(){
+
+    }
 }
