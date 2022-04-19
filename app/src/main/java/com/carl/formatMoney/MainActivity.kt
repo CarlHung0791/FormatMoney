@@ -33,4 +33,8 @@ class MainActivity : AppCompatActivity() {
     fun three(){
         
     }
+
+    fun seven(){
+        
+    }
 }
