@@ -1,6 +1,7 @@
 package com.carl.formatMoney
 
 import android.os.Bundle
+import android.util.Log
 import androidx.appcompat.app.AppCompatActivity
 
 class MainActivity : AppCompatActivity() {
@@ -28,5 +29,8 @@ class MainActivity : AppCompatActivity() {
     }
     fun three(){
         
+    }
+    fun three2(){
+        Log.e("2","2")
     }
 }
