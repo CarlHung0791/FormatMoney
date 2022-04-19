@@ -24,6 +24,9 @@ class MainActivity : AppCompatActivity() {
     }
     
     fun aaa() {
-
+        
+    }
+    fun three(){
+        
     }
 }
