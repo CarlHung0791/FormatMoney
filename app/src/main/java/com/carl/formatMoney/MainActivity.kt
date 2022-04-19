@@ -23,13 +23,7 @@ class MainActivity : AppCompatActivity() {
     fun one(){
 
     }
-    fun marge(){
-
-    }
-
-    fun aaa(){
-        
-    }
+    
     fun five() {
         Log.e("5", "5")
     }
