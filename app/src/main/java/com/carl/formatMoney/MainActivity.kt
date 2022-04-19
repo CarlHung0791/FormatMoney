@@ -22,12 +22,4 @@ class MainActivity : AppCompatActivity() {
     fun one(){
 
     }
-    
-    fun four() {
-        
-    }
-
-    fun six(){
-        
-    }
 }
