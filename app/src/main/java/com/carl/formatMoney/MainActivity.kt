@@ -19,22 +19,7 @@ class MainActivity : AppCompatActivity() {
 
     }
 
-    fun one(){
-
-    }
-    
-    fun four() {
-        
-    }
     fun two(){
 
-    }
-
-    fun three(){
-        
-    }
-
-    fun seven(){
-        
     }
 }
