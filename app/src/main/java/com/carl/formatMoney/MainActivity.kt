@@ -28,4 +28,10 @@ class MainActivity : AppCompatActivity() {
     fun marge3() {
 
     }
+    fun marge4(){
+        
+    }
+    fun marge5(){
+        
+    }
 }
