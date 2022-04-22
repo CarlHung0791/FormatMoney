@@ -36,4 +36,7 @@ class MainActivity : AppCompatActivity() {
     fun marge3(){
 
     }
+    fun marge4(){
+        
+    }
 }
