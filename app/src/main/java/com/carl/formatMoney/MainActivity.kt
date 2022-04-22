@@ -24,6 +24,7 @@ class MainActivity : AppCompatActivity() {
 
     }
     
+<<<<<<< HEAD
     fun five() {
         Log.e("5", "5")
     }
@@ -35,5 +36,15 @@ class MainActivity : AppCompatActivity() {
     }
     fun marge3(){
 
+=======
+    fun aaa() {
+        
+    }
+    fun three(){
+        
+    }
+    fun three2(){
+        Log.e("2","2")
+>>>>>>> branch3
     }
 }
