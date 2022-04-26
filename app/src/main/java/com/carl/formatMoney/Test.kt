@@ -7,4 +7,8 @@ class Test {
     fun test(){
         Log.e("1","2")
     }
+
+    fun test_one(){
+        
+    }
 }
