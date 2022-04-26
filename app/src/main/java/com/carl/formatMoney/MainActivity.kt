@@ -19,10 +19,5 @@ class MainActivity : AppCompatActivity() {
 
     }
 
-    fun one(){
-
-    }
-    fun two(){
-
-    }
+   
 }
