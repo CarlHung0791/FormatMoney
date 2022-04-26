@@ -22,4 +22,16 @@ class MainActivity : AppCompatActivity() {
     fun two(){
 
     }
+    fun marge2(){
+
+    }
+    fun marge3() {
+
+    }
+    fun marge4(){
+        
+    }
+    fun marge5(){
+        
+    }
 }
