@@ -8,13 +8,4 @@ class Test {
         Log.e("1","2")
     }
 
-    fun test_one(){
-
-    }
-    fun test_two(){
-
-    }
-    fun test_three(){
-        
-    }
 }
