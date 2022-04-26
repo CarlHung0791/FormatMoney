@@ -14,4 +14,7 @@ class Test {
     fun test_two(){
 
     }
+    fun test_three(){
+        
+    }
 }
