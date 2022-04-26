@@ -9,6 +9,9 @@ class Test {
     }
 
     fun test_one(){
-        
+
+    }
+    fun test_two(){
+
     }
 }
