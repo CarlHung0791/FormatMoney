@@ -19,19 +19,5 @@ class MainActivity : AppCompatActivity() {
 
     }
 
-    fun one(){
-
-    }
-    fun marge2(){
-
-    }
-    fun marge3() {
-
-    }
-    fun marge4(){
-        
-    }
-    fun marge5(){
-        
-    }
+   
 }
